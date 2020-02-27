@@ -2,13 +2,13 @@
 {
     public enum EUnitClass
     {
-        Villager,
-        Squire,
-        Soldier,
-        Ranger,
-        Mage,
+        Villagerr,
+        Ssquire,
+        Soldierr,
+        Reanger,
+        Magee,
         Imp,
         Orc,
-        Dragon
+        Dragonn
     }
 }
