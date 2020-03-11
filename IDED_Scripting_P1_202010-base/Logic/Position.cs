@@ -1,4 +1,5 @@
-﻿namespace IDED_Scripting_P1_202010_base.Logic
+﻿
+namespace IDED_Scripting_P1_202010_base.Logic
 {
     public struct Position
     {
